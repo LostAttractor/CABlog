@@ -87,10 +87,19 @@ home = ["HTML", "RSS", "Algolia"]
   #keybase       = "full profile url in keybase"
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
-  
+
+  [[params.friend_link]]
+  title = "MtF.wiki"
+  href =  "https://mtf.wiki/"  
+  [[params.friend_link]]
+  title = "HRT.guide"
+  href =  "https://docs.hrt.guide/"  
+  [[params.friend_link]]
+  title = "HRT.cafe"
+  href =  "https://hrt.cafe"  
   [[params.friend_link]]
   title = "Takagi的博客"
-  href =  "https://lixingyong.com"
+  href =  "https://lixingyong.com/"
   [[params.friend_link]]
   title = "esterTion ( ͡° ͜ʖ ͡°)"
   href =  "https://estertion.win/"
