@@ -30,9 +30,9 @@ home = ["HTML", "RSS", "Algolia"]
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "KQRGHPWB31"
+  algolia_indexName = "lostattractor.github.io"
+  algolia_apiKey = "72ba7a9d334c423caf4e6238de6fd7ae"
 
   # Sidebar settings
   sidebar_about_description = "od少女/15岁休学笨蛋/5年双向情感障碍患者/资深问题儿童/躺平中"

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 右美沙芬滥用相关药理简单科普
+author: ChaosAttractor
 subtitle:   ""
 description: ""
 excerpt: ""
 date: 2022-07-23 13:56:57.911
-updated: 2022-07-23 18:05:25.5
+lastmod: 2022-07-23 18:05:25.5
 author: "ChaosAttractor"
 image: "/img/post/dextromethorphan/post-bg.jpg"
 published: true 
