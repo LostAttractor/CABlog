@@ -1,0 +1,25 @@
+---
+layout: page
+multilingual: false
+---
+
+## 关于我
+od少女，资深问题儿童，5年双向情感障碍患者，15岁休学笨蛋，身上一堆嗑药导致的后遗症
+
+<!-- ![smhc](https://s2.loli.net/2022/07/24/Lki3eNYSOHToKcD.jpg) -->
+![smhc](/img/about/smhc.JPG)
+
+比较直，总是不小心说错话伤到大家( ；´Д｀)，如果咱做错了什么肯定不是故意的，希望能被体谅QAQ
+
+跨性别者/MtF🏳️‍⚧️一枚，~~昏睡女孩~~，极度渴望得到认同，所以是个焦虑炸弹，因为需要长期服用激素药物和之前药物滥用，学了不少药理知识以及护理学知识（注射什么的）qwq
+
+曾经是OIer，但是因为休学而且打比赛太自闭就放弃了，会写一点代码，比较擅长java逆向，Minecraft Mod作者（曾经），最不擅长前端（
+
+还有就是希望自己可以变成温柔可爱的大姐姐(*≧ω≦)
+
+![1.gif](/img/about/1.gif)
+<!-- ![IMG_0114](https://s2.loli.net/2021/12/27/IApCKWPYdgyU2bN.gif) -->
+
+如果想要联系到我欢迎加咱的TG[@LostAttractor](t.me/lostattractor)
+
+该博客将与我的博客主站[lostattractor.net](lostattractor.net)同步更新，当作一个静态页面的备份ww
