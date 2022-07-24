@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-cleanwhite"]
 	path = themes/hugo-theme-cleanwhite
 	url = https://github.com/LostAttractor/hugo-theme-cleanwhite.git
+[submodule "public"]
+	path = public
+	url = ./public
