@@ -2,7 +2,7 @@
 layout:     post 
 title:      "Welcome to ChaosAttractor's Blog"
 subtitle:   "Hello World, Hello Blog"
-# date:       2022-07-22
+date:       2022-07-22
 author:     "ChaosAttractor"
 URL: "/post/hello-world/"
 image:      ""
