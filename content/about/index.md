@@ -19,6 +19,6 @@ od少女，资深问题儿童，5年双向情感障碍患者，15岁休学笨蛋
 ![girl](https://s2.loli.net/2022/07/24/pLy42kEA7JbNDxO.gif)
 <!-- ![IMG_0114](https://s2.loli.net/2022/07/24/pLy42kEA7JbNDxO.gif) -->
 
-如果想要联系到我欢迎加咱的TG[@LostAttractor](t.me/lostattractor)
+如果想要联系到我欢迎加咱的TG[@LostAttractor](https://t.me/lostattractor)
 
-该博客将与我的博客主站[lostattractor.net](lostattractor.net)同步更新，当作一个静态页面的备份ww
+该博客将与我的博客主站[lostattractor.net](https://lostattractor.net)同步更新，当作一个静态页面的备份ww
