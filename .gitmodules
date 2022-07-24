@@ -3,4 +3,4 @@
 	url = https://github.com/LostAttractor/hugo-theme-cleanwhite.git
 [submodule "public"]
 	path = public
-	url = ./public
+	url = https://github.com/LostAttractor/lostattractor.github.io
