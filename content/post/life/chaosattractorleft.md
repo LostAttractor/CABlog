@@ -9,7 +9,7 @@ date: 2022-05-15 11:29:11.779
 publishdate: 2022-05-15 11:29:11.779
 lastmod: 2022-07-23 17:10:50.846
 author: "ChaosAttractor"
-private: true
+draft: true
 categories: [ "Life" ]
 tags: 
     - 生活日常
