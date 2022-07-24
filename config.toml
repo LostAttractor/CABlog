@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-man.jpg"
+  header_image = "https://s2.loli.net/2021/12/11/Xveb36LHaiOTM95.jpg"
   SEOTitle = "ChaosAttractor的博客 | ChaosAttractor Blog"
   description = "彻底躺平废物/od少女/15岁休学纯傻逼/重度精神病/是黄推慎fo/曾经是OIer但是什么奖没拿/双向情感障碍/反社会人格注意⚠️/社交关系关我屁事/极度喜欢各种凄惨的东西/喜欢磕药/欢迎来把我杀了/希望自己能早一点死"
   keyword = ""
