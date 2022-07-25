@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 我失踪的这26天发生的事情的完整始末报告
 author: ChaosAttractor
 subtitle:   ""

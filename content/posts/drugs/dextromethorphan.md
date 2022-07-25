@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 右美沙芬滥用相关药理简单科普
 author: ChaosAttractor
 subtitle:   ""
