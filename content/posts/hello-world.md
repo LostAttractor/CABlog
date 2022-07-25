@@ -1,5 +1,4 @@
 ---
-layout:     posts
 title:      "Welcome to ChaosAttractor's Blog"
 subtitle:   "Hello World, Hello Blog"
 author: ChaosAttractor

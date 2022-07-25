@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: 右美沙芬滥用
 author: LostAttractor
 subtitle:   ""
