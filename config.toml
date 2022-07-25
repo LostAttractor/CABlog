@@ -124,6 +124,7 @@ home = ["HTML", "RSS", "Algolia"]
   name = "Drugs"
   title =  "药物"
   subtitle = "一些业余的药物科普"
+  image = "https://s2.loli.net/2022/07/25/AyLa2Dnou7YZ9Xm.jpg"
   [[params.categories]]
   name = "Life"
   title =  "生活记录"
