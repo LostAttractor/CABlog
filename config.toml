@@ -45,6 +45,8 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Baidu Analytics
   ba_track_id = ""
+
+  moeicp = "20228045"
   
   # We need a proxy to access Disqus api in China
   # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
