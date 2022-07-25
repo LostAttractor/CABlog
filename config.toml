@@ -14,8 +14,9 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "https://s2.loli.net/2021/12/11/Xveb36LHaiOTM95.jpg"
-  SEOTitle = "ChaosAttractor的博客 | ChaosAttractor Blog"
+  SEOTitle = "ChaosAttractor的博客 | ChaosAttractor's Blog"
   description = "彻底躺平废物/od少女/15岁休学纯傻逼/重度精神病/是黄推慎fo/曾经是OIer但是什么奖没拿/双向情感障碍/反社会人格注意⚠️/社交关系关我屁事/极度喜欢各种凄惨的东西/喜欢磕药/欢迎来把我杀了/希望自己能早一点死"
+  author = "ChaosAttractor"
   keyword = ""
   slogan = "不向焦虑与抑郁投降，这个世界终会有我们存在的地方。"
 
@@ -65,6 +66,8 @@ home = ["HTML", "RSS", "Algolia"]
   # Include any custom CSS and/or JS files, url or relative to /static folder
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
+
+  nav_expect_categories = ["overdose"] 
 
   [params.social]
   rss            = true 
@@ -116,7 +119,10 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.bookmark_link]]
   title = "unsplash"
   href = "https://unsplash.com"
-  
+
+  # [[params.addtional_menus]]
+  # title =  "OVERDOSE"
+  # href =  "/overdose/"  
   [[params.addtional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"

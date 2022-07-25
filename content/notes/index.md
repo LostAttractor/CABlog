@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Notes
 ---
 
 <!-- ## [Go 语言学习笔记](https://zhaohuabing.com/learning-golang) -->

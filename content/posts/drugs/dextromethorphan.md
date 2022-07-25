@@ -8,9 +8,7 @@ excerpt: ""
 date: 2022-07-23 13:56:57.911
 publishdate: 2022-07-23 13:56:57.911
 lastmod: 2022-07-23 18:05:25.5
-author: "ChaosAttractor"
 image: "https://s2.loli.net/2022/07/24/4vgqE7KkafWyN9w.jpg"
-published: true 
 categories: [ "Drugs" ]
 tags:
     - 药物

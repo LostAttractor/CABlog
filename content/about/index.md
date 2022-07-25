@@ -1,6 +1,7 @@
 ---
 layout: page
 multilingual: false
+# subtitle: "如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。"
 ---
 
 ## 关于我
