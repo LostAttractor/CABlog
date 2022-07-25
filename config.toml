@@ -120,6 +120,20 @@ home = ["HTML", "RSS", "Algolia"]
   title = "unsplash"
   href = "https://unsplash.com"
 
+  [[params.categories]]
+  name = "Drugs"
+  title =  "药物"
+  subtitle = "一些业余的药物科普"
+  [[params.categories]]
+  name = "Life"
+  title =  "生活记录"
+  [[params.categories]]
+  name = "Diary"
+  title =  "日记"
+  [[params.categories]]
+  name = "Tech"
+  title =  "技术"
+
   # [[params.addtional_menus]]
   # title =  "OVERDOSE"
   # href =  "/overdose/"  
