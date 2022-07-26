@@ -1,6 +1,7 @@
 ---
 title: "第一篇日记"
-type: diray
+date: 2022-07-25T22:46:04+08:00
 ---
 
-> hello,world
+## Hello,Diray!
+总算把日记整好啦QWQ！

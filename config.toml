@@ -141,6 +141,9 @@ home = ["HTML", "RSS", "Algolia"]
   # title =  "OVERDOSE"
   # href =  "/overdose/"  
   [[params.addtional_menus]]
+  title =  "DIRAY"
+  href =  "/diray/"
+  [[params.addtional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"
   [[params.addtional_menus]]
