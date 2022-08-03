@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "https://s2.loli.net/2021/12/11/Xveb36LHaiOTM95.jpg"
   SEOTitle = "ChaosAttractor的博客 | ChaosAttractor's Blog"
-  description = "彻底躺平废物/od少女/15岁休学纯傻逼/重度精神病/是黄推慎fo/曾经是OIer但是什么奖没拿/双向情感障碍/反社会人格注意⚠️/社交关系关我屁事/极度喜欢各种凄惨的东西/喜欢磕药/欢迎来把我杀了/希望自己能早一点死"
+  description = "彻底躺平废物/od少女/15岁休学五年纯傻逼/重度精神病/是黄推慎fo/曾经是OIer但是什么奖没拿/双向情感障碍/反社会人格注意⚠️/社交关系关我屁事/极度喜欢各种凄惨的东西/喜欢磕药/欢迎来把我杀了/希望自己能早一点死"
   author = "ChaosAttractor"
   keyword = ""
   slogan = "不向焦虑与抑郁投降，这个世界终会有我们存在的地方。"
@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = "72ba7a9d334c423caf4e6238de6fd7ae"
 
   # Sidebar settings
-  sidebar_about_description = "od少女/15岁休学笨蛋/5年双向情感障碍患者/资深问题儿童/躺平中"
+  sidebar_about_description = "od少女/15岁小女孩/药物滥用/5年双向情感障碍患者/资深问题儿童/休学五年笨蛋/躺平中"
   sidebar_avatar = "img/avatar-lostattractor.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
@@ -102,6 +102,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.friend_link]]
   title = "HRT.cafe"
   href =  "https://hrt.cafe"  
+  [[params.friend_link]]
+  title = "那些秋叶"
+  href =  "https://www.one-among.us/" 
   [[params.friend_link]]
   title = "Takagi的博客"
   href =  "https://lixingyong.com/"
