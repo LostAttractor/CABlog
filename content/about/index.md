@@ -7,7 +7,7 @@ subtitle: "如果你能记住我的名字，如果你们都能记住我的名字
 ## 关于我
 od少女，资深问题儿童，5年双向情感障碍患者，15岁休学五年笨蛋，身上一堆嗑药导致的后遗症
 
-![smhc](https://s2.loli.net/2022/07/24/wuWqTaH1Dg6vmGI.jpg)
+![smhc](/img/about/smhc.avif)
 
 比较直，总是不小心说错话伤到大家( ；´Д｀)，如果咱做错了什么肯定不是故意的，希望能被体谅QAQ
 
@@ -17,8 +17,7 @@ od少女，资深问题儿童，5年双向情感障碍患者，15岁休学五年
 
 还有就是希望自己可以变成温柔可爱的大姐姐(*≧ω≦)
 
-![girl](https://s2.loli.net/2022/07/24/pLy42kEA7JbNDxO.gif)
-<!-- ![IMG_0114](https://s2.loli.net/2022/07/24/pLy42kEA7JbNDxO.gif) -->
+![girl](/img/about/1.gif)
 
 **「愿世上所有孤独，都有温暖相伴」**
 

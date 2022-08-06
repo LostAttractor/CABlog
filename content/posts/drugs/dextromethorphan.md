@@ -7,7 +7,7 @@ excerpt: ""
 date: 2022-07-23 13:56:57.911
 publishdate: 2022-07-23 13:56:57.911
 lastmod: 2022-07-23 18:05:25.5
-image: "https://s2.loli.net/2022/07/24/4vgqE7KkafWyN9w.jpg"
+image: "img/posts/dextromethorphan/post-bg.avif"
 categories: [ "Drugs" ]
 tags:
     - 药物
@@ -76,7 +76,7 @@ NMDA受体是一种离子通道形谷氨酸受体，最关键的就是这个离�
 所以拮抗NMDA受体可以产生解离、致幻的效果，这是右美沙芬滥用时产生快感的主要原因。
 
 右美沙芬是右啡烷（[Dextrorphan,DXO](https://en.wikipedia.org/wiki/Dextrorphan)）的前体药物，右美沙芬在进入体内后会被肝脏通过[CYP2D6蛋白](https://en.wikipedia.org/wiki/CYP2D6)部分代谢为右啡烷，它因为有着比右美沙芬本身更高的NMDA 受体拮抗效率，所以其才是右美沙芬发挥解离作用的实际介质。
-![650px-DXM_metabolism](https://s2.loli.net/2022/07/24/5rmj6CnidkuwtKh.png)
+![DXM_metabolism](/img/posts/dextromethorphan/DXM_metabolism.avif)
 
 #### 拮抗NMDA 受体的效果
 
