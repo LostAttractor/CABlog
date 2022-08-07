@@ -233,7 +233,7 @@ $ cat /sys/class/drm/card*/device/power_state
 #### 在混合模式下只使用NVIDIA显卡
 > ⚠️ 注意  
 > optimus-manager 官方文档中不推荐将此环境变量添加到全局环境。  
->> It is not recommended to set those variables system-wide (like in /etc/environment), since it would defeat the point of hybrid mode, and can also break desktop compositing on some environment (resulting in a black screen).
+> > It is not recommended to set those variables system-wide (like in /etc/environment), since it would defeat the point of hybrid mode, and can also break desktop compositing on some environment (resulting in a black screen).
 >
 > 也就是说会遇到这些问题：  
 > - Kwin / 显示特效混合器（混成器）奔溃（毛玻璃效果消失，原本是透明或毛玻璃效果的背景变黑）  
