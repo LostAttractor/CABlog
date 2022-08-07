@@ -106,7 +106,7 @@ LABEL="gdm_hybrid_nvidia_laptop_check_end"
 
 但是在Wayland下这个问题就没这么简单了，因为Wayland下只能去使用提供EDID文件，并不能直接去设置Modeline
 
-起初我根据ArchWiki指路的方法使用edid-generator(https://github.com/akatrevorjay/edid-generator)尝试根据之前的Modeline自己生成一个EDID文件然后使用，但是指定使用后log里一直莫名其妙的报错
+起初我根据ArchWiki指路的方法使用[edid-generator](https://github.com/akatrevorjay/edid-generator)尝试根据之前的Modeline自己生成一个EDID文件然后使用，但是指定使用后log里一直莫名其妙的报错
 
 解决方法也很简单，直接重启到独显直连模式下然后把使用的EDID文件给截取出来然后在指定显示器用就好了，首先安装好[read-edid](https://archlinux.org/packages/?name=read-edid)这个包，然后使用如下命令提取EDID文件
 ```sh
