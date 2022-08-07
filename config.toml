@@ -37,7 +37,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "od少女/15岁小女孩/药物滥用/5年双向情感障碍患者/资深问题儿童/休学五年笨蛋/躺平中"
-  sidebar_avatar = "img/avatar-lostattractor.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/avatar-lostattractor.avif"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   # featured_condition_size = 1 
