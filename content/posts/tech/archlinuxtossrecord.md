@@ -99,7 +99,7 @@ LABEL="gdm_hybrid_nvidia_laptop_check_end"
 这时我注意到，如果在独显直连模式下，即系统使用正确的EDID文件的情况下，设置里显示的刷新率是165.002HZ，说明这块屏幕不是标准165hz的行刷新率
 
 在Xorg下解决这个问题很简单，先使用独显直连模式进入系统，这时EDID是正确的，然后使用xrandr --verbose获取显示器的详细信息，并在里面找到显示器所使用的Modeline，例如
-```
+```sh
 'Modeline "2560x1600"  777.41  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync'
 ```
 然后根据[ArchWiki](https://wiki.archlinux.org/title/Xrandr_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E6%B7%BB%E5%8A%A0%E6%9C%AA%E8%A2%AB%E6%A3%80%E6%B5%8B%E5%88%B0%E7%9A%84%E6%9C%89%E6%95%88%E5%88%86%E8%BE%A8%E7%8E%87)提供的方法设置就行了
@@ -138,7 +138,7 @@ Hybrid的很重要的一点是要能够自动让独显能够自动在空载时�
 $ cat /proc/driver/nvidia/gpus/0000:01:00.0/power
 ```
 然后输出的内容中如果输出为「Disabled (not support)」即为不支持，如果成功打开会这样显示
-```
+```sh
 Runtime D3 status:          Enabled (fine-grained)
 ```
 「fine-grained」是模式，代表精细控制，具体区别我也不是很了解，但是官方文档演示用的就是这个模式
@@ -155,7 +155,7 @@ options nvidia "NVreg_DynamicPowerManagement=0x02"
 启用此功能后，还需将显卡的电源控制策略从on切换到auto，由于NV的GPU还会集成声卡等多个设备，在曾经较老的内核上需要禁用除了显卡本身之外的其他设备，不然会出问题，在现在驱动逐渐完善后已经可以全部设置为auto了
 
 在笔记本上一般只有GPU本身和一个集成音频控制器，它们的电源策略模式可以在这里用cat或者echo命令直接获取/更改：
-```
+```sh
 /sys/bus/pci/devices/0000\:01\:00.0/power/control
 /sys/bus/pci/devices/0000\:01\:00.1/power/control
 ```
@@ -200,7 +200,7 @@ Power Limits:
 如果Video Memory是Off的话，就说明成功了，可以看到此时显卡的功耗墙也变为了N/A milliwatts
 
 如果不是，可以看下nvidia-smi
-```
+```sh
 +-----------------------------------------------------------------------------+
 | NVIDIA-SMI 515.65.01    Driver Version: 515.65.01    CUDA Version: 11.7     |
 |-------------------------------+----------------------+----------------------+
