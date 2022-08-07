@@ -1,4 +1,4 @@
-baseurl = "https://lostattractor.github.io/"
+baseurl = "https://lostattractor.net/"
 title = "ChaosAttractor的博客"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
