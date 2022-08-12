@@ -103,6 +103,9 @@ home = ["HTML", "RSS", "Algolia"]
   title = "HRT.cafe"
   href =  "https://hrt.cafe"  
   [[params.friend_link]]
+  title = "MTF小站"
+  href =  "https://mtf.qwq.pink/" 
+  [[params.friend_link]]
   title = "那些秋叶"
   href =  "https://www.one-among.us/" 
   [[params.friend_link]]
