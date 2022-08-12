@@ -16,6 +16,8 @@ URL: "/overdose/dextromethorphan/"
 hide: true
 ---
 
+**以下内容修改自彩霞**
+
 药名：右美沙芬
 作用位点：NMDA药物
 
