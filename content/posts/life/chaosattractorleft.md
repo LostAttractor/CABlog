@@ -1,9 +1,9 @@
 ---
+layout: "posts"
 title: 我失踪的这26天发生的事情的完整始末报告
-author: ChaosAttractor
 subtitle:   ""
 description: ""
-excerpt: ""
+author: ChaosAttractor
 date: 2022-05-15 11:29:11.779
 publishdate: 2022-05-15 11:29:11.779
 lastmod: 2022-07-23 17:10:50.846

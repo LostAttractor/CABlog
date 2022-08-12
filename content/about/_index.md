@@ -23,6 +23,4 @@ od少女，资深问题儿童，5年双向情感障碍患者，15岁休学五年
 
 如果想要联系到我欢迎加咱的TG[@LostAttractor](https://t.me/lostattractor)
 
-<!-- 「我们会在没有黑暗的地方相见。」 -->
-
 <!-- 该博客将与我的博客主站[lostattractor.net](https://lostattractor.net)同步更新，当作一个静态页面的备份ww -->

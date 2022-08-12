@@ -1,9 +1,9 @@
 ---
+layout: "posts"
 title: R9000P 2021版的ArchLinux踩坑记录（持续更新）
-author: ChaosAttractor
 subtitle:   ""
 description: ""
-excerpt: ""
+author: ChaosAttractor
 date: 2022-08-07
 publishdate: 2022-08-07
 lastmod: 2022-08-08

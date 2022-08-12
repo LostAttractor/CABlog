@@ -1,9 +1,9 @@
 ---
+layout: "posts"
 title: 右美沙芬滥用相关药理简单科普
-author: ChaosAttractor
 subtitle:   ""
 description: ""
-excerpt: ""
+author: ChaosAttractor
 date: 2022-07-23 13:56:57.911
 publishdate: 2022-07-23 13:56:57.911
 lastmod: 2022-07-23 18:05:25.5
