@@ -24,9 +24,9 @@ hide: true
 
 医疗用途：
  - 咳嗽抑制/止渴药，是最常见的止渴药之一
- - 2013年的一项随机临床试验发现，右美沙芬可以减少与阿片类药物使用障碍相关的整体不适和戒断症状的持续时间。当与可乐定联合使用时，与单独使用可乐定相比，右美沙芬将戒断症状达到峰值所需的总时间缩短了 24 小时，同时降低了症状的严重程度。[[4]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3706070)
+ - 2013年的一项随机临床试验发现，右美沙芬可以减少与阿片类药物使用障碍相关的整体不适和戒断症状的持续时间。当与可乐定联合使用时，与单独使用可乐定相比，右美沙芬将戒断症状达到峰值所需的总时间缩短了 24 小时，同时降低了症状的严重程度。[[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3706070)
  - 因为研究发现拮抗NMDA受体可以有抗抑郁效果，且右美沙芬本身还具有SNRI的特性，因此正在被作为新型抗抑郁药物进行临床研究  
- >  The combination medicine dextromethorphan/bupropion is in clinical trials by Axsome Therapeutics for major depressive disorder, with fast track designation granted by the FDA in 2017.[[1]](www.globenewswire.com/news-release/2017/02/14/916854/0/en/Axsome-Therapeutics-Receives-FDA-Fast-Track-Designation-for-AXS-05-for-Treatment-Resistant-Depression.html) The combination showed positive results in phase 2 and phase 3 clinical trials.[[2]](https://www.mdedge.com/psychiatry/article/212142/depression/dextromethorphan/bupropion-combo-remarkably-fast-acting)[[3]](https://axsometherapeuticsinc.gcs-web.com/news-releases/news-release-details/axsome-therapeutics-announces-axs-05-achieves-primary-endpoint-1)
+ >  The combination medicine dextromethorphan/bupropion is in clinical trials by Axsome Therapeutics for major depressive disorder, with fast track designation granted by the FDA in 2017.[[2]](www.globenewswire.com/news-release/2017/02/14/916854/0/en/Axsome-Therapeutics-Receives-FDA-Fast-Track-Designation-for-AXS-05-for-Treatment-Resistant-Depression.html) The combination showed positive results in phase 2 and phase 3 clinical trials.[[3]](https://www.mdedge.com/psychiatry/article/212142/depression/dextromethorphan/bupropion-combo-remarkably-fast-acting)[[4]](https://axsometherapeuticsinc.gcs-web.com/news-releases/news-release-details/axsome-therapeutics-announces-axs-05-achieves-primary-endpoint-1)
 
 
 作用方式 / 位点：
