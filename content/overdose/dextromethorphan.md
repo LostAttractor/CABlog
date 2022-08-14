@@ -31,8 +31,7 @@ hide: true
 
 作用方式 / 位点：
  - [非竞争性拮抗](https://en.wikipedia.org/wiki/Uncompetitive_inhibition)[**NMDA受体**](https://en.wikipedia.org/wiki/NMDA_receptor)
-  - 右美沙芬的致幻/接力
-  - NMDA离子通道相关机理可以看up主"底层原理"的这个视频：[【【禁毒科普】K粉：幻视黑洞-哔哩哔哩】](https://b23.tv/vebXrYA)，后续有空了我再补上
+   - NMDA离子通道相关机理可以看up主"底层原理"的这个视频：[【【禁毒科普】K粉：幻视黑洞-哔哩哔哩】](https://b23.tv/vebXrYA)，后续有空了我再补上
  - [**五羟色胺**](https://en.wikipedia.org/wiki/Serotonin)与[**去甲基肾上腺素**](https://en.wikipedia.org/wiki/Norepinephrine_transporter)再摄取抑制剂([**SNRIs**](https://en.wikipedia.org/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor))
    - SNRI类药物常常被用于抗抑郁，该类药物有较好的抗抑郁效果，如：[文拉法辛](https://zh.wikipedia.org/wiki/%E6%96%87%E6%8B%89%E6%B3%95%E8%BE%9B)、[度洛西汀](https://zh.wikipedia.org/wiki/%E5%BA%A6%E6%B4%9B%E8%A5%BF%E6%B1%80)等，SSRI类药物和SSRI类药物都是控制的血清素(也被叫做五羟色胺或5-HT)系统，这类抑制血清素再摄取的抗抑郁药也被称为"典型抗抑郁药"
    - 需要知道的是，SNRI这个名字里虽然有抑制两个字，但是表达的意思并不是去减少血清素，而是通过"抑制"血清素的"再摄取"来增加大脑中的血清素含量，从而达到抗抑郁的效果
