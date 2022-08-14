@@ -23,7 +23,7 @@ hide: true
 类型：解离/致幻
 
 医疗用途：
- - 一般被作为止渴药，是最常见的止渴药之一
+ - 咳嗽抑制/止渴药，是最常见的止渴药之一
  - 2013年的一项随机临床试验发现，右美沙芬可以减少与阿片类药物使用障碍相关的整体不适和戒断症状的持续时间。当与可乐定联合使用时，与单独使用可乐定相比，右美沙芬将戒断症状达到峰值所需的总时间缩短了 24 小时，同时降低了症状的严重程度。[[4]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3706070)
  - 因为研究发现拮抗NMDA受体可以有抗抑郁效果，且右美沙芬本身还具有SNRI的特性，因此正在被作为新型抗抑郁药物进行临床研究  
  >  The combination medicine dextromethorphan/bupropion is in clinical trials by Axsome Therapeutics for major depressive disorder, with fast track designation granted by the FDA in 2017.[[1]](www.globenewswire.com/news-release/2017/02/14/916854/0/en/Axsome-Therapeutics-Receives-FDA-Fast-Track-Designation-for-AXS-05-for-Treatment-Resistant-Depression.html) The combination showed positive results in phase 2 and phase 3 clinical trials.[[2]](https://www.mdedge.com/psychiatry/article/212142/depression/dextromethorphan/bupropion-combo-remarkably-fast-acting)[[3]](https://axsometherapeuticsinc.gcs-web.com/news-releases/news-release-details/axsome-therapeutics-announces-axs-05-achieves-primary-endpoint-1)
@@ -43,9 +43,10 @@ hide: true
  - [Ligand](https://en.wikipedia.org/wiki/Ligand_(biochemistry)) of the [**serotonin**](https://en.wikipedia.org/wiki/Serotonin) [**5-HT-1B**](https://en.wikipedia.org/wiki/5-HT1B_receptor)/[**5-HT-1D**](https://en.wikipedia.org/wiki/5-HT1D_receptor), [**histamine**](https://en.wikipedia.org/wiki/Histamine) [**H1**](https://en.wikipedia.org/wiki/H1_receptor), [**α2-adrenergic**](https://en.wikipedia.org/wiki/Alpha-2_adrenergic_receptor), and [**muscarinic acetylcholine receptors**](https://en.wikipedia.org/wiki/Muscarinic_acetylcholine_receptor)
 
 安全范围：8-36片×15mg
- - 因为NMDA受体即离子通道在每个人身上的运转情况都不尽相同，且每个人大脑中谷氨酸/甘氨酸含量也不尽相同，因此即使是同样计量在不同人身上效果差异也极大，有吃了80多片也没什么事情的，也有吃了48片就进icu的，所以这里的计量仅供参考
+ - 因为NMDA受体即离子通道在**每个人身上**的运转情况都**不尽相同**，且每个人大脑中谷氨酸/甘氨酸含量也不尽相同，因此**即使是同样计量在不同人身上效果差异也极大**，有吃了80多片也没什么事情的，也有吃了48片就进icu的，所以这里的计量**仅供参考**
  - 不要因为想看到所谓的KHole尝试离谱的剂量，等你看到KHole的时候你大概率也回不来了
- - 如想尝试大剂量还请多次尝试，一点一点的加量
+ - 如想尝试大剂量建议多次尝试，一点一点的加量，增加计量所带来的效果增强并不是线性的
+ - 许多药物（特别是**抗抑郁药**）是[CYP2D6](https://en.wikipedia.org/wiki/CYP2D6)的强效抑制剂，如果同时服用这些药物及右美沙芬，可能产生药物间的相互作用，曾有因此致死的事例报告。
 
 起效时间：90-120分钟
  - 右美沙芬的起效时间非常长，且每个人都并不是很固定，千万不要因为感觉起效太慢或药效太弱贸然加减计量，免得和我一样被抬进急诊室洗胃（
