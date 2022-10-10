@@ -9,9 +9,6 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
 
-# 优先寻找并使用最新的图像格式，若浏览器不支持，自动回滚到浏览器支持的图像格式
-image_multi_format = true
-
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
