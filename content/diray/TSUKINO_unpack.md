@@ -9,5 +9,5 @@ date: 2022-08-12T11:05:00+08:00
 我七月回的上海  
 八月了我才想起来开箱（
 
-![IMG_8037](/img/diray/TSUKINO/IMG_8037.avif)
-![IMG_8032](/img/diray/TSUKINO/IMG_8032.avif)
+![IMG_8037](/img/diray/TSUKINO/IMG_8037.jpeg)
+![IMG_8032](/img/diray/TSUKINO/IMG_8032.jpeg)

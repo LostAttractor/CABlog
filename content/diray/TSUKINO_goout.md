@@ -8,5 +8,5 @@ date: 2022-08-13T16:00:00+08:00
 还有就是三角巾真的 **好 难 系！**  
 而且风一吹就会乱QAQ  
 
-![IMG_8066](/img/diray/TSUKINO/IMG_8066.avif)
-![IMG_8064](/img/diray/TSUKINO/IMG_8064.avif)
+![IMG_8066](/img/diray/TSUKINO/IMG_8066.jpeg)
+![IMG_8064](/img/diray/TSUKINO/IMG_8064.jpeg)

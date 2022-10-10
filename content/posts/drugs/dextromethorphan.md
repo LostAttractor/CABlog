@@ -7,7 +7,7 @@ author: ChaosAttractor
 date: 2022-07-23 13:56:57.911
 publishdate: 2022-07-23 13:56:57.911
 lastmod: 2022-07-23 18:05:25.5
-image: "img/posts/dextromethorphan/post-bg.avif"
+image: "img/posts/dextromethorphan/post-bg.jpg"
 categories: [ "Drugs" ]
 tags:
     - 药物
@@ -21,8 +21,8 @@ URL: "/drugs/dextromethorphan/"
 
 > 右美沙芬（Dextromethorphan），又名右甲吗喃，英文简称DM或DXM，是一种镇咳药物，它的氢溴酸盐（Dextromethorphan hydrobromide）常用于药品中。
 > 美国食品及药物管理局在1958年批准右美沙芬可不需医生处方而作为镇咳药发售。当时最广泛使用的咳药可待因有被滥用的可能性，也可成瘾。右美沙芬在这些方面虽比可待因有所改善。
-![440px-Dextromethorphan.svg](https://s2.loli.net/2022/07/24/AbGLO8PZc9KEhBk.png)
-![220px-Dextromethorphan-from-xtal-3D-balls-A](https://s2.loli.net/2022/07/24/GKboAR512iULayp.png)
+![Dextromethorphan](/img/posts/dextromethorphan/Dextromethorphan.png)
+![Dextromethorphan-from-xtal-3D-balls-A](/img/posts/dextromethorphan/Dextromethorphan-from-xtal-3D-balls-A.png)
 摘自：[维基百科](https://zh.wikipedia.org/zh-cn/右美沙芬)
 
 **右美沙芬片剂（氢溴酸右美沙芬）于2019年在中国由OTC（甲类非处方药）转为处方药，但是大部分药厂生产的右美沙芬包装仍未更改，依然印着OTC字样，导致很多药店店员压根搞不清楚，想买多少就买多少，根本不管。
@@ -76,7 +76,7 @@ NMDA受体是一种离子通道形谷氨酸受体，最关键的就是这个离�
 所以拮抗NMDA受体可以产生解离、致幻的效果，这是右美沙芬滥用时产生快感的主要原因。
 
 右美沙芬是右啡烷（[Dextrorphan,DXO](https://en.wikipedia.org/wiki/Dextrorphan)）的前体药物，右美沙芬在进入体内后会被肝脏通过[CYP2D6蛋白](https://en.wikipedia.org/wiki/CYP2D6)部分代谢为右啡烷，它因为有着比右美沙芬本身更高的NMDA 受体拮抗效率，所以其才是右美沙芬发挥解离作用的实际介质。
-![DXM_metabolism](/img/posts/dextromethorphan/DXM_metabolism.avif)
+![DXM_metabolism](/img/posts/dextromethorphan/DXM_metabolism.png)
 
 #### 拮抗NMDA 受体的效果
 

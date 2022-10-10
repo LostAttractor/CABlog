@@ -7,7 +7,7 @@ excerpt: ""
 date: 2022-07-23 13:56:57.911
 publishdate: 2022-07-23 13:56:57.911
 lastmod: 2022-07-23 18:05:25.5
-image: "img/posts/dextromethorphan/post-bg.avif"
+image: "img/posts/dextromethorphan/post-bg.jpg"
 categories: [ "Overdose" ]
 tags:
     - 药物

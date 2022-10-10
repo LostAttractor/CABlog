@@ -7,7 +7,7 @@ author: ChaosAttractor
 date: 2022-08-07
 publishdate: 2022-08-07
 lastmod: 2022-08-08
-image: "img/posts/archlinuxtossrecord/gnome-desktop.avif"
+image: "img/posts/archlinuxtossrecord/gnome-desktop.png"
 categories: [ "Tech" ]
 tags:
     - 技术

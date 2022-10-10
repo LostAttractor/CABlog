@@ -9,11 +9,14 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
 
+# 优先寻找并使用最新的图像格式，若浏览器不支持，自动回滚到浏览器支持的图像格式
+image_multi_format = true
+
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-man.avif"
+  header_image = "img/home-bg-man.jpg"
   SEOTitle = "ChaosAttractor的博客 | ChaosAttractor's Blog"
   description = "ChaosAttractor's Blog |「愿我们终会在没有黑暗的地方相见。」"
   # description = "彻底躺平废物/od少女/15岁休学五年纯傻逼/重度精神病/曾经是OIer但是什么奖没拿/双向情感障碍/阿斯伯格综合症/反社会人格注意⚠️/社交关系关我屁事/极度喜欢各种凄惨的东西/喜欢磕药/欢迎来把我杀了/希望自己能早一点死"
@@ -21,7 +24,7 @@ home = ["HTML", "RSS", "Algolia"]
   keyword = ""
   slogan = "不向焦虑与抑郁投降，这个世界终会有我们存在的地方。"
 
-  image_404 = "img/404-bg.avif"
+  image_404 = "img/404-bg.jpg"
   title_404 = "你来到了没有知识的荒原 :("
   omit_categories = false
 
@@ -38,7 +41,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "od少女/15岁小女孩/药物滥用/5年双向情感障碍患者/资深问题儿童/休学五年笨蛋/躺平中"
-  sidebar_avatar = "img/avatar-lostattractor.avif"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/avatar-lostattractor.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   # featured_condition_size = 1 
@@ -133,7 +136,7 @@ home = ["HTML", "RSS", "Algolia"]
   name = "Drugs"
   title =  "药物"
   subtitle = "一些业余的药物科普"
-  image = "img/categories/drugs.avif"
+  image = "img/categories/drugs.jpg"
   [[params.categories]]
   name = "Life"
   title =  "生活记录"
