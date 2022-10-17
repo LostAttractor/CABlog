@@ -1,5 +1,5 @@
 baseurl = "https://lostattractor.net/"
-title = "ChaosAttractor的博客"
+title = "CABlog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
