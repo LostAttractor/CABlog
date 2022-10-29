@@ -1,8 +1,8 @@
 ---
 layout: "posts"
 # title: 关于自己对于药物滥用相关的一些思考和记录
-title: "关于自己以后不会再OD的一些记录"
-subtitle: "关于我决定不再OD，以及对其的思考的记录"
+title: "一些关于自己以后不会再OD的记录"
+subtitle: "关于为什么我决定不再OD，以及对其的思考"
 # description: ""
 author: "ChaosAttractor"
 date: 2022-10-29
