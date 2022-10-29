@@ -1,5 +1,5 @@
 baseurl = "https://cablog.vercel.app/"
-title = "CABlog"
+title = "ChaosAttractor的博客"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
