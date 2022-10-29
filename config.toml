@@ -1,4 +1,4 @@
-baseurl = "https://lostattractor.net/"
+baseurl = "https://cablog.vercel.app/"
 title = "CABlog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
