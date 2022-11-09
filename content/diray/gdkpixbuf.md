@@ -8,4 +8,4 @@ date: 2022-08-12T15:00:00+08:00
 对软件包进行逐一降级后发现gdk-pixbuf2的2.42.9-1更新似乎有bug，会导致在我的环境下gtk程序和gnome无法正常显示图片  
 解决方法也很简单，使用pacman -U进行降级就好了
 
-![updategdkpixbuf2](/img/diray/updategdkpixbuf2.png)
+![updategdkpixbuf2](/img/diary/updategdkpixbuf2.png)

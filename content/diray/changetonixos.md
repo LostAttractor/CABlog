@@ -8,4 +8,4 @@ date: 2022-09-02T14:26:00+08:00
 
 然后经过了反复的尝试和学习，咱也把咱的主力系统换到了NixOS
 
-![changetonixos](/img/diray/changetonixos.png)
+![changetonixos](/img/diary/changetonixos.png)
