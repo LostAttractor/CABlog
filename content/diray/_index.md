@@ -1,5 +1,5 @@
 ---
-layout: diray
+layout: diary
 type: page
 title: "日记"
 subtitle: "日常的随笔记录～"
